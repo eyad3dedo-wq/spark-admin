@@ -10,7 +10,7 @@
 
 1. Clone Repository
 ```
-git clone https://github.com/eyad3dedo-wq/spark-admin.git
+git clone https://github.com/themewagon/spark-admin.git
 ```
 
 ## Author 
@@ -20,6 +20,6 @@ Design and code is completely written by Spark Admin Dev and development team.
 
 ## License
 
- - Design and Code is Copyright © [Spark Admin Dev](https://sparkadminpro.gumroad.com/)
- - Licensed cover under MIT
- - Distributed by [ThemeWagon](https://www.themewagon.com/)
+ - Design and Code is Copyright &copy; <a href="https://sparkadminpro.gumroad.com/" target="_blank">Spark Admin Dev</a>
+ - Licensed cover under [MIT]
+ - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
